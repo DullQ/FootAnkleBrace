@@ -3,6 +3,11 @@ html, body
   margin: 0;
 }
 
+body
+{
+background-image: linear-gradient(to top, #000000, #000000, #40c979, #000000, #000000);
+}
+
 #Title
 {
 	color: white;
