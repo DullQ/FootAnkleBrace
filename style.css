@@ -20,3 +20,8 @@ background-image: linear-gradient(to top, #000000, #000000, #40c979, #000000, #0
 	color: rgba(236, 236, 236, 0.726);
 	font-size: '20px';
 }
+
+.p
+{
+	font-color: white;
+}
